@@ -71,10 +71,10 @@ Fluxos automatizados para:
 ## 📫 Conexão
 
 <p align="center">
-  <a href="https://instagram.com/seuuser">
+  <a href="https://instagram.com/ronooo_junioor">
     <img src="https://img.shields.io/badge/Instagram-5E19A8?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="mailto:seu@email.com">
+  <a href="mailto:ronoilson110@email.com">
     <img src="https://img.shields.io/badge/Email-5E19A8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
