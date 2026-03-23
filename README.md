@@ -62,14 +62,6 @@ Dashboard de operações focado em métricas e performance de especialistas
 
 ---
 
-### 🚗 Plataforma de Veículos
-Sistema completo com:
-- Gestão de anúncios  
-- Integração com banco de dados  
-- Painel administrativo  
-
----
-
 ### ⚙️ Automações com n8n
 Fluxos automatizados para:
 - Processos repetitivos  
