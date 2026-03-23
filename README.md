@@ -35,21 +35,13 @@ Meu foco é simples: **performance, escala e resultado.**
 ## 🛠️ Stack Principal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,html,css" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase"/>
   <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge"/>
-</p>
-
----
-
-## 📊 Performance & Atividade
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js"/>
 </p>
 
 ---
