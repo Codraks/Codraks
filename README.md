@@ -73,7 +73,7 @@ Fluxos automatizados para escala de processos e integrações
 
 ---
 
-## 🐍 Contribuições
+## 🐍 Comits
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Codraks/Codraks/output/github-contribution-grid-snake-dark.svg" />
