@@ -46,19 +46,38 @@ Meu foco é simples: **performance, escala e resultado.**
 
 ---
 
+## 📊 Performance & Atividade
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Codraks&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codraks&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 ## 🔥 Projetos em Destaque
 
 ### 🚀 AtendeOps
 Dashboard de operações focado em métricas e performance de especialistas  
-→ Transformando dados em decisão
+→ Transformando dados em decisão  
+
+---
+
+### 🚗 Plataforma de Veículos
+Sistema completo com gestão de anúncios + painel administrativo + Supabase  
 
 ---
 
 ### ⚙️ Automações com n8n
-Fluxos automatizados para:
-- Processos repetitivos  
-- Integrações entre sistemas  
-- Escala operacional  
+Fluxos automatizados para escala de processos e integrações  
+
+---
+
+## 🐍 Contribuições
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codraks/Codraks/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
 ---
 
