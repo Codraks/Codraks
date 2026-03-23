@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Ronoilson Junior</h1>
+<h1 align="center">Ronoilson Junior</h1>
 <h3 align="center">Automação • Sistemas Web • Dados</h3>
 
 <p align="center">
