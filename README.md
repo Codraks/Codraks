@@ -96,6 +96,9 @@ Fluxos automatizados para escala de processos e integrações
   <a href="mailto:ronoilson110@email.com">
     <img src="https://img.shields.io/badge/Email-5E19A8?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://linkedin.com/in/ronoilson-de-oliveira-gonçalves-junior-6851a21aa/">
+    <img src="https://img.shields.io/badge/LinkedIn-5E19A8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
