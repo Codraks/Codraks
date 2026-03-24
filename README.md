@@ -32,16 +32,14 @@ Meu foco é simples: **performance, escala e resultado.**
 
 ---
 
-## 🛠️ Stack Principal
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,nextjs,html,css" />
-</p>
-
-<p align="center">
+### 🚀 Main Stack
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
+  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase"/>
   <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js"/>
 </p>
 
 ---
