@@ -31,15 +31,14 @@ Meu foco é simples: **performance, escala e resultado.**
 ⚡ Integrações que economizam tempo e aumentam lucro  
 
 ---
-
 ### 🚀 Main Stack
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge"/>
 </p>
 
 ---
