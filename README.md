@@ -48,11 +48,11 @@ Meu foco é simples: **performance, escala e resultado.**
 
 ### 🛠️ Tools
 <p>
-  <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack"/>
-  <img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira"/>
-  <img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion"/>
-</p>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+</p>>
 
 ## 📊 Performance & Atividade
 
