@@ -63,11 +63,6 @@ Dashboard de operações focado em métricas e performance de especialistas
 
 ---
 
-### 🚗 Plataforma de Veículos
-Sistema completo com gestão de anúncios + painel administrativo + Supabase  
-
----
-
 ### ⚙️ Automações com n8n
 Fluxos automatizados para escala de processos e integrações  
 
