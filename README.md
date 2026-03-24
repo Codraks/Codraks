@@ -45,34 +45,6 @@ Meu foco é simples: **performance, escala e resultado.**
 </p>
 
 ---
-## 🧠 My Skills
-
-### 🚀 Main Stack
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
-  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js"/>
-  <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js"/>
-  <img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase"/>
-  <img src="https://img.shields.io/badge/n8n-0D1117?style=for-the-badge"/>
-</p>
-
----
-
-### ⚡ Secondary Stack
-<p>
-  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5"/>
-  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3"/>
-</p>
-
----
-
-### 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql"/>
-</p>
-
----
 
 ### 🛠️ Tools
 <p>
