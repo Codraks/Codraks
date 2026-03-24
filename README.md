@@ -49,7 +49,9 @@ Meu foco é simples: **performance, escala e resultado.**
 ### 🛠️ Tools
 <p>
   <img src="https://img.shields.io/badge/VSCode-0D1117?style=for-the-badge&logo=visualstudiocode"/>
-  <img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman"/>
+  <img src="https://img.shields.io/badge/Slack-0D1117?style=for-the-badge&logo=slack"/>
+  <img src="https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira"/>
+  <img src="https://img.shields.io/badge/Notion-0D1117?style=for-the-badge&logo=notion"/>
 </p>
 
 ## 📊 Performance & Atividade
